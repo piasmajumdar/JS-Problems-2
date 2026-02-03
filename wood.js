@@ -20,3 +20,10 @@ function woodQuantity(chairQuantity, tableQuantity, bedQuantity) {
 
 const wood = woodQuantity(0,0,1);
 console.log('Total wood required: ', wood, 'cft');
+
+
+/**
+ * Shirt Price --> 500
+ * Pant Price --> 800
+ * Shoe Price --> 1200
+*/
