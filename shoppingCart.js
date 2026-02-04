@@ -16,4 +16,3 @@ function cartTotal(products) {
 
 const shoppingCost = cartTotal(products);
 console.log('Total shopping cost: ', shoppingCost);
-console.log('Products in cart: ', products.length);
